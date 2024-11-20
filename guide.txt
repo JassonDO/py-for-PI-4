@@ -1,0 +1,13 @@
+- in this repo, i will to show you HOW TO UPLOAD DATA from PI 4 to server Thinkspeak, DOWLOAD DATA from server
+to show on terminal and control hardware by that data ON NODERED GUI.
+- IN THIS CASE, I using MQTT METHOD to upload and dowload data from thinkspeak server.
+
+
+my hardware:
+ 
+ PI4, GROVE BASE HAT, TEMPERATURE SENSOR, LED, LCD, HUMIDITY SENSOR
+
+
+step 1: sign-in an account on thinkspeak, just using school mail, or organization mail to sign-in.
+step 2: create new chanel and new MQTT device on Thinkspeak server, remember DOWLOAD ALL USERNAME, PASSWORD, CLIENT ID WHEN THEY RECOMMEND
+step 3: start PI 4, dowload and install  ALL LIBRARY ABOUT GROVE BASE HAT
